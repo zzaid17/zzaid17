@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Zaid and I'm a student at the University of Calgary studying electrical engineering with a minor in mechatronics. My areas of interest include anything involving engineering and technology, such as electrical engineering, software development, robotics, and more.</p>
+<p align="left">My name is Zaid and I'm a student at the University of Calgary studying electrical engineering with a minor in mechatronics. My areas of interest include anything involving science and technology, such as electrical engineering, software development, robotics, and more.</p>
 
 ###
 
