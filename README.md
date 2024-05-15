@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm currently involved in research, working on implementing ROS 2 and C++ principles for robotics. I'm also actively working on personal projects such as creating a cryptocurrency trading simulator, as well as team-related ones, namely working with a CubeSAT team on campus.<br><br>✨ I'm currently trying to learn OOP with C++, data structures and algorithms, and machine learning and data science principles<br>📚 I love my math and physics coursework and my favourite class so far is differential equations<br>🎲  In my spare time I like lifting weights, playing video games, listening to music, and more<br><br>https://www.linkedin.com/in/zaidhoda/<br>https://discordapp.com/users/252545188591828992<br>zaid.hoda@ucalgary.ca</p>
+<p align="left">I'm currently involved in research, working on implementing ROS 2 and C++ principles for robotics. I'm also actively working on personal projects such as creating a cryptocurrency trading simulator, as well as team-related ones, namely working with a CubeSAT team on campus.<br><br>✨ I'm currently trying to learn OOP with C++, data structures and algorithms, and machine learning and data science principles<br>📚 I love my math and physics coursework and my favourite class so far has been differential equations<br>🎲  In my spare time I like lifting weights, playing video games, listening to music, and more<br><br>https://www.linkedin.com/in/zaidhoda/<br>https://discordapp.com/users/252545188591828992<br>zaid.hoda@ucalgary.ca</p>
 
 ###
 
