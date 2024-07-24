@@ -47,9 +47,3 @@
 <h2 align="left"></h2>
 
 ###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=zzaid17.zzaid17&"  />
-</div>
-
-###
