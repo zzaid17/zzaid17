@@ -2,9 +2,7 @@
 
 ###
 
-My name is Zaid and I'm a student at the University of Calgary studying electrical engineering with a minor in mechatronics. My areas of interest include anything involving science and technology, such as electrical engineering, software development, robotics, and more.
-
-I'm currently involved in research, working on implementing ROS 2 and C++ principles for robotics. I'm also actively working on personal projects such as creating a cryptocurrency trading simulator, as well as team-related ones, namely working with a CubeSAT team on campus.
+My name is Zaid and I'm a student at the University of Calgary studying electrical engineering with a minor in mechatronics. My areas of interest include anything involving science and technology, such as space exploration, software development, robotics, and more. 
 
 https://www.linkedin.com/in/zaidhoda
 
