@@ -1,14 +1,14 @@
-<h1 align="left">hello! 👋</h1>
+<h1 align="left">Hello! 👋</h1>
 
 ###
 
-My name is Zaid and I'm a student at the University of Calgary studying electrical engineering with a minor in mechatronics. My areas of interest include anything involving science and technology, such as space exploration, software development, robotics, and more. 
+My name is Zaid and I'm a student at the University of Calgary studying electrical engineering with a minor in mechatronics. My areas of interest include anything involving science and technology, such as space exploration, machine learning, robotics, and more. Some of my current work involves my contributions to CalgaryToSpace, a nanosatellite design team at the Schulich School of Engineering, as a member of the electrical team, and research for robotics, machine learning, and biomedical engineering. My current research project involves machine learning for prosthetic design using EMG data.
 
 https://www.linkedin.com/in/zaidhoda
 
 ###
 
-<h2 align="left">currently working with...</h2>
+<h2 align="left">Currently working with...</h2>
 
 ###
 
@@ -41,3 +41,8 @@ https://www.linkedin.com/in/zaidhoda
 <h2 align="left"></h2>
 
 ###
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zzaid17&show_icons=true&locale=en&theme=tokyonight" alt="Top Languages"/>
+</p>
+
