@@ -43,6 +43,6 @@ https://www.linkedin.com/in/zaidhoda
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zzaid17&show_icons=true&locale=en&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zzaid17&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="Top Languages"/>
 </p>
 
