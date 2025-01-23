@@ -43,6 +43,7 @@ https://www.linkedin.com/in/zaidhoda
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zzaid17&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zzaid17&show_icons=true&locale=en&theme=shadow-blue&bg_color=00000000&text_color=00779A&hide_border=false&border_color=004490"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zzaid17&theme=shadow_blue&hide_border=false"/>
 </p>
 
